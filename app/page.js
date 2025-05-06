@@ -1,7 +1,15 @@
-import ProductGrid from "./components/ProductGrid";
+import Banner from "@/app/components/Header";
+import TrendingProducts from "@/app/components/TrendingProducts";
+import About from "@/app/components/About";
+import Contact from "@/app/components/Contact";
 
 export default function Home() {
   return (
-   <ProductGrid /> 
+      <>
+        <Banner />
+          <TrendingProducts />
+          <About />
+          <Contact />
+      </>
   );
 }
