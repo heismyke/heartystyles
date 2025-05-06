@@ -66,11 +66,11 @@ export default function Footer() {
                         <ul className="space-y-4 mb-10">
                             <li className="text-stone-600 font-light text-sm flex items-start">
                                 <span className="inline-block w-4 h-px bg-stone-400 mt-3 mr-3"></span>
-                                Bodija, Ibadan
+                                Nigeria, Port Harcourt
                             </li>
                             <li className="text-stone-600 font-light text-sm flex items-start">
                                 <span className="inline-block w-4 h-px bg-stone-400 mt-3 mr-3"></span>
-                                +234 - 813 714 9294
+                                +234 - 7037984051
                             </li>
                             <li className="text-stone-600 font-light text-sm flex items-start">
                                 <span className="inline-block w-4 h-px bg-stone-400 mt-3 mr-3"></span>

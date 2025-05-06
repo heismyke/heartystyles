@@ -36,7 +36,7 @@ export default function About() {
                         <div className="relative">
                             <div className="absolute -top-6 -left-6 w-full h-full border border-stone-300"></div>
                             <img
-                                src="about.jpg"
+                                src="machine.jpg"
                                 alt="About Fafy's Finery"
                                 className="w-full h-auto object-cover relative z-10"
                             />
