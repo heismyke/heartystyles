@@ -52,7 +52,7 @@ export default function About() {
 
                             <div className="space-y-6 font-light">
                                 <p className="text-stone-700 leading-relaxed border-l-2 border-stone-300 pl-4">
-                                    Fafy's Finery launched in 2019 with a singular vision: to redefine beauty as something
+                                    Heartystyles launched in 2019 with a singular vision: to redefine beauty as something
                                     fluid and ever-evolving, not fixed or predetermined.
                                 </p>
 

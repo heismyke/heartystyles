@@ -95,7 +95,6 @@ export default function MinimalNavbar() {
                         </div>
 
                         <a href="/new-arrivals" className="text-stone-700 hover:text-stone-900 text-sm tracking-wide font-light border-b border-transparent hover:border-stone-300 transition-all duration-300 pb-1">NEW ARRIVALS</a>
-                        <a href="/about" className="text-stone-700 hover:text-stone-900 text-sm tracking-wide font-light border-b border-transparent hover:border-stone-300 transition-all duration-300 pb-1">ABOUT</a>
                         <a href="/contact" className="text-stone-700 hover:text-stone-900 text-sm tracking-wide font-light border-b border-transparent hover:border-stone-300 transition-all duration-300 pb-1">CONTACT</a>
                     </div>
 
@@ -151,7 +150,6 @@ export default function MinimalNavbar() {
                         </div>
 
                         <a href="/new-arrivals" className="text-stone-700 hover:text-stone-900 py-2 font-light tracking-wide">NEW ARRIVALS</a>
-                        <a href="/about" className="text-stone-700 hover:text-stone-900 py-2 font-light tracking-wide">ABOUT</a>
                         <a href="/contact" className="text-stone-700 hover:text-stone-900 py-2 font-light tracking-wide">CONTACT</a>
 
                         <div className="flex items-center space-x-8 pt-4 border-t border-stone-100">
