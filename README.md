@@ -1,37 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HeartyStyles – E-Commerce Platform for Men's Fashion
 
-## Getting Started
+**Project Type:** Client Work  
+**Client:** HeartyStyles (Nigeria)  
+**Year:** 2024  
+**Role:** Full-Stack Developer (Frontend & Backend)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧵 About the Client
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[HeartyStyles](#) is a Nigerian-based fashion brand specializing in bespoke and ready-to-wear men's clothing. The brand is renowned for its commitment to quality craftsmanship and contemporary designs, catering to a diverse clientele seeking stylish and affordable fashion options.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💻 Project Overview
 
-## Learn More
+The objective was to develop a comprehensive e-commerce platform that enables HeartyStyles to:
 
-To learn more about Next.js, take a look at the following resources:
+- Showcase and manage their product catalog
+- Facilitate online orders and payments
+- Streamline inventory and order management
+- Enhance customer engagement and experience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Technologies Used
 
-## Deploy on Vercel
+- **Frontend:** Next.js (React.js), Tailwind CSS
+- **Backend:** Spring Boot (Java), Spring Security
+- **Database:** PostgreSQL
+- **Authentication:** JWT (JSON Web Tokens)
+- **Payment Integration:** Paystack API
+- **Deployment:** Vercel (Frontend), Heroku (Backend)
+- **Version Control:** Git & GitHub
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# heartystyles
+## 🔑 Key Features
+
+- **Product Management:** Admin interface to add, update, and delete products with images and descriptions.
+- **User Authentication:** Secure user registration and login using JWT.
+- **Shopping Cart:** Users can add products to the cart, modify quantities, and proceed to checkout.
+- **Order Processing:** Seamless order placement with email confirmations.
+- **Payment Gateway:** Integrated Paystack for secure online payments.
+- **Responsive Design:** Mobile-first design ensuring optimal user experience across devices.
+
+![Mockup](https://github.com/user-attachments/assets/0bb66418-a75c-4931-96b0-07c21abafff7)
+
+---
+
+
